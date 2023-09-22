@@ -9,6 +9,8 @@
 
 * **Manager**
   * [경성구](https://github.com/babbu3682)
+ 
+  * github manage - [김영제](https://github.com/provbs)
 
 * **Members**
   * 박강길, 최창용, 김지영, 경성구, 정지훈, 이소영, 김태원, 김영제, 김지환, 박창현.
