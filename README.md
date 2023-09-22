@@ -2,18 +2,18 @@
 
 <br>
 
-# MI2RL Multi-Modal Paper Study
+# MI2RL Internal Paper Study
 
-* Paper Study about Multi-Modal Deep Learning
+* Deep learning Paper Study
 * [MI2RL](https://www.mi2rl.co/)@Asan Medical Center, South Korea, Professor :  Namkug Kim
 
 * **Manager**
   * [경성구](https://github.com/babbu3682)
  
-  * github manage - [김영제](https://github.com/provbs)
+  * Github managing - [김영제](https://github.com/provbs)
 
 * **Members**
-  * 박강길, 최창용, 김지영, 경성구, 정지훈, 이소영, 김태원, 김영제, 김지환, 박창현.
+  * 박강길, 최창용, 김지영, 경성구, 정지훈, 이소영, 김태원, 김영제, 김지환, 김채원
 
 
 # Contents
