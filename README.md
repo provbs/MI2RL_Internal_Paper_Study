@@ -13,7 +13,8 @@
   * Github managing - [김영제](https://github.com/provbs)
 
 * **Members w/ Githubs**
-  * 박강길, 최창용, 김지영, [경성구](https://github.com/babbu3682), [정지훈](https://github.com/jhooons3327), 이소영, 김태원, [김영제](https://github.com/provbs), 김지환, [김채원](https://github.com/cwkim0120), 권희연, 오석
+  * [경성구](https://github.com/babbu3682), [정지훈](https://github.com/jhooons3327), 김태원, [김영제](https://github.com/provbs), 김지환, [김채원](https://github.com/cwkim0120), 권희연, 오석
+  * 박강길, 최창용, 김지영, 이소영
  
   * 발표 순서 Cycle : 경성구 -> 김영제 -> 김지환 -> 김태원 -> 정지훈 -> 김채원 -> 권희연 -> 오석 (23.09.22 기준)
  
