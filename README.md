@@ -41,5 +41,6 @@
 | 2023.07.14 | [A ConvNet for the 2020s](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/A%20ConvNet%20for%20the%202020s.pdf) | [Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.pdf) | 김태원 |
 | 2023.08.04 | [DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/DeSTSeg_kyj.pdf) | [Link](https://arxiv.org/pdf/2211.11317.pdf) | 김영제 |
 | 2023.08.24 | [Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/mem-ae.pdf) | [Link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gong_Memorizing_Normality_to_Detect_Anomaly_Memory-Augmented_Deep_Autoencoder_for_Unsupervised_ICCV_2019_paper.pdf) | 김지환 | 
+| 2023.10.20 | [Visual Prompt Tuning](https://github.com/provbs/mini-MI2RL_internal_paper_study/blob/main/pdf/VPT_kyungSunggu.pdf) | [Link](https://github.com/KMnP/vpt) | 경성구 | 
 
 
