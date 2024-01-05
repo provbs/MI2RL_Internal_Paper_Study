@@ -8,9 +8,8 @@
 * [MI2RL](https://www.mi2rl.co/)@Asan Medical Center, South Korea, Professor :  Namkug Kim
 
 * **Manager**
-  * [경성구](https://github.com/babbu3682)
- 
-  * Github managing - [김영제](https://github.com/provbs)
+  * [김영제](https://github.com/provbs)
+  * Former - [경성구](https://github.com/babbu3682)
 
 * **Members w/ Githubs**
   * [경성구](https://github.com/babbu3682), [정지훈](https://github.com/jhooons3327), 김태원, [김영제](https://github.com/provbs), 김지환, [김채원](https://github.com/cwkim0120), 권희연, 오석
@@ -42,5 +41,8 @@
 | 2023.08.04 | [DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/DeSTSeg_kyj.pdf) | [Link](https://arxiv.org/pdf/2211.11317.pdf) | 김영제 |
 | 2023.08.24 | [Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/mem-ae.pdf) | [Link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gong_Memorizing_Normality_to_Detect_Anomaly_Memory-Augmented_Deep_Autoencoder_for_Unsupervised_ICCV_2019_paper.pdf) | 김지환 | 
 | 2023.10.20 | [Visual Prompt Tuning](https://github.com/provbs/mini-MI2RL_internal_paper_study/blob/main/pdf/VPT_kyungSunggu.pdf) | [Link](https://github.com/KMnP/vpt) | 경성구 | 
-
+| 2023.11.03 | [LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data]() | [Link](https://arxiv.org/pdf/2208.14889.pdf) | 김영제 |
+| 2023.10.20 | [MaxViT: Multi-Axis Vision Transformer]() | [Link](https://arxiv.org/abs/2204.01697) | 김지환 | 
+| 2023.10.20 | [Deep Anomaly Detection with Outlier Exposure]() | [Link](https://arxiv.org/abs/1812.04606) | 김태원 | 
+| 2023.10.20 | [Diffusion Self-Guidance for Controllable Image Generation]() | [Link](https://arxiv.org/abs/2306.00986) | 정지훈 | 
 
