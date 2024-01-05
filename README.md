@@ -15,8 +15,9 @@
   * [정지훈](https://github.com/jhooons3327), 김태원, [김영제](https://github.com/provbs), 김지환, [김채원](https://github.com/cwkim0120), 권희연, 김현욱, 임현석
   * 박강길, 최창용, 김지영, 이소영, [경성구](https://github.com/babbu3682), 오석
  
-  * 발표 순서 Cycle : 김영제 -> 김지환 -> 김태원 -> 정지훈 -> 김채원 -> 권희연 -> 김현욱 -> 임현석 (23.09.22 기준)
- 
+  * 발표 순서 Cycle : 경성구 -> 김영제 -> 김지환 -> 김태원 -> 정지훈 -> 김채원 -> 권희연 -> 임현석 -> 김현욱 (23.11.17 기준)
+
+
 * **Youtube (Recorded Presenting Videos)**
   * 링크 추후 추가
 
