@@ -13,7 +13,7 @@
 
 * **Members w/ Githubs**
   * Current - 최창용, [정지훈](https://github.com/jhooons3327), 김태원, [김영제](https://github.com/provbs), 김지환, [김채원](https://github.com/cwkim0120), 김현욱, 임현석, 윤희지
-  * Former - 박강길, 김지영, 이소영, [경성구](https://github.com/babbu3682),오석
+  * Former - 박강길, 김지영, 이소영, [경성구](https://github.com/babbu3682), 오석
  
   * 발표 순서 Cycle : 경성구 -> 김영제 -> 김지환 -> 김태원 -> 정지훈 -> 김채원 -> 권희연 -> 임현석 -> 김현욱 (23.11.17 기준)
 
