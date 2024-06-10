@@ -44,5 +44,9 @@
 | 2023.11.03 | [LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/LANIT_youngjae.pdf) | [Link](https://arxiv.org/pdf/2208.14889.pdf) | 김영제 |
 | 2023.11.17 | [MaxViT: Multi-Axis Vision Transformer](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EA%B3%B5%ED%95%A9%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B9%80%EC%A7%80%ED%99%98-MaxVIT.pdf) | [Link](https://arxiv.org/abs/2204.01697) | 김지환 | 
 | 2023.12.08 | [Deep Anomaly Detection with Outlier Exposure](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/DEEP%20ANOMALY%20DETECTION%20WITH%20OUTLIER%20EXPOSURE_2023_12_08.pdf) | [Link](https://arxiv.org/abs/1812.04606) | 김태원 | 
+| 2024.01.05 | [Diffusion Self-Guidance for Controllable Image Generation]() | [Link](https://arxiv.org/abs/2306.00986) | 정지훈 |
+| 2024.01.19 | [Personalize Segment Anything Model with One Shot]() | [Link](https://arxiv.org/abs/2305.03048) | 김채원 | 
+| 2024.01.05 | [Diffusion Self-Guidance for Controllable Image Generation]() | [Link](https://arxiv.org/abs/2306.00986) | 정지훈 | 
+| 2024.01.05 | [Diffusion Self-Guidance for Controllable Image Generation]() | [Link](https://arxiv.org/abs/2306.00986) | 정지훈 | 
 | 2024.01.05 | [Diffusion Self-Guidance for Controllable Image Generation]() | [Link](https://arxiv.org/abs/2306.00986) | 정지훈 | 
 
