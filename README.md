@@ -56,5 +56,5 @@
 | 2024.04.29 | [Patch Diffusion: Faster and More Data-Efficient Training of Diffusion Models](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EC%B5%9C%EC%B0%BD%EC%9A%A9Patch_Diffusion.pptx) | [Link](https://arxiv.org/pdf/2304.12526) | 최창용 |
 | 2024.05.13 | [Masked Autoencoders Are Scalable Vision Learners](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EC%9E%84%ED%98%84%EC%84%9D%20Masked%20Autoencoder.pdf) | [Link](https://arxiv.org/abs/2111.06377) | 임현석 |
 | 2024.05.20 | [nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/paper_review_nnU-Net_240527_Hyunwook%20Kim.pdf) | [Link](https://arxiv.org/abs/1809.10486) | 김현욱 |
-| 2025.06.10 | [Learning to Simulate Complex Physics with Graph Networks](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EC%9C%A4%ED%9D%AC%EC%A7%80Simulate%20Physi.pptx.pdf) | [Link](https://arxiv.org/abs/2002.09405) | 윤희지 |
+| 2024.06.10 | [Learning to Simulate Complex Physics with Graph Networks](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EC%9C%A4%ED%9D%AC%EC%A7%80Simulate%20Physi.pptx.pdf) | [Link](https://arxiv.org/abs/2002.09405) | 윤희지 |
 
