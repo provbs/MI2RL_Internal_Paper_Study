@@ -45,8 +45,17 @@
 | 2023.11.17 | [MaxViT: Multi-Axis Vision Transformer](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EA%B3%B5%ED%95%A9%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B9%80%EC%A7%80%ED%99%98-MaxVIT.pdf) | [Link](https://arxiv.org/abs/2204.01697) | 김지환 | 
 | 2023.12.08 | [Deep Anomaly Detection with Outlier Exposure](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/DEEP%20ANOMALY%20DETECTION%20WITH%20OUTLIER%20EXPOSURE_2023_12_08.pdf) | [Link](https://arxiv.org/abs/1812.04606) | 김태원 | 
 | 2024.01.05 | [Diffusion Self-Guidance for Controllable Image Generation]() | [Link](https://arxiv.org/abs/2306.00986) | 정지훈 |
-| 2024.01.19 | [Personalize Segment Anything Model with One Shot]() | [Link](https://arxiv.org/abs/2305.03048) | 김채원 | 
-| 2024.01.05 | [Diffusion Self-Guidance for Controllable Image Generation]() | [Link](https://arxiv.org/abs/2306.00986) | 정지훈 | 
-| 2024.01.05 | [Diffusion Self-Guidance for Controllable Image Generation]() | [Link](https://arxiv.org/abs/2306.00986) | 정지훈 | 
-| 2024.01.05 | [Diffusion Self-Guidance for Controllable Image Generation]() | [Link](https://arxiv.org/abs/2306.00986) | 정지훈 | 
+| 2024.01.19 | [Personalize Segment Anything Model with One Shot](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/PerSAM%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0_%EA%B9%80%EC%B1%84%EC%9B%90%20(1).pdf) | [Link](https://arxiv.org/abs/2305.03048) | 김채원 | 
+| 2024.01.05 | [High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/High-Resolution%20Image%20Synthesis%20with%20Latent%20Diffusion%20Models_%EC%9E%84%ED%98%84%EC%84%9D.pdf) | [Link](https://arxiv.org/abs/2112.10752) | 임현석 | 
+| 2024.01.05 | [Denoising Diffusion Implicit Models](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/Denoising%20Diffusion%20Implicit%20Models_%EA%B9%80%ED%98%84%EC%9A%B1_240223.pdf) | [Link](https://arxiv.org/abs/2010.02502) | 김현욱 | 
+| 2024.01.05 | [Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image
+Translation via Structure Consistency Constraint](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/240311_kyj_scc.pdf) | [Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Alleviating_Semantics_Distortion_in_Unsupervised_Low-Level_Image-to-Image_Translation_via_Structure_CVPR_2022_paper.pdf) | 김영제 | 
+| 2022.12.23 | [SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EA%B9%80%EC%A7%80%ED%99%98-ScoreSDE.pptx) | [Link](https://arxiv.org/pdf/2011.13456.pdf) | 김지환 |
+| 2022.12.23 | [RTMPose_Real-Time Multi-Person Pose Estimation based on MMPose](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EA%B9%80%ED%83%9C%EC%9B%90RTMPose_Real-Time%20Multi-Person%20Pose%20Estimation%20based%20on%20MMPose.pptx) | [Link](https://arxiv.org/abs/2303.07399) | 김태원 |
+| 2022.12.23 | [Cross-Image Attention for Zero-Shot Appearance Transfer]() | [Link](https://arxiv.org/abs/2311.03335) | 정지훈 |
+| 2022.12.23 | [Segment Anything in High Quality]() | [Link](https://arxiv.org/abs/2306.01567) | 김채원 |
+| 2022.12.23 | [Patch Diffusion: Faster and More Data-Efficient Training of Diffusion Models](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EC%B5%9C%EC%B0%BD%EC%9A%A9Patch_Diffusion.pptx) | [Link](https://arxiv.org/pdf/2304.12526) | 최창용 |
+| 2022.12.23 | [Masked Autoencoders Are Scalable Vision Learners](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EC%9E%84%ED%98%84%EC%84%9D%20Masked%20Autoencoder.pdf) | [Link](https://arxiv.org/abs/2111.06377) | 임현석 |
+| 2022.12.23 | [nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/paper_review_nnU-Net_240527_Hyunwook%20Kim.pdf) | [Link](https://arxiv.org/abs/1809.10486) | 김현욱 |
+| 2022.12.23 | [Learning to Simulate Complex Physics with Graph Networks](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EC%9C%A4%ED%9D%AC%EC%A7%80Simulate%20Physi.pptx.pdf) | [Link](https://arxiv.org/abs/2002.09405) | 윤희지 |
 
