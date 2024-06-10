@@ -23,7 +23,7 @@
 
 # Contents
 
-| Date       | Title                                                              | Paper   | Presenter    |
+| Date       | Title/ppt                                                              | Paper   | Presenter    |
 | ---------- | ------------------------------------------------------------------ | ------- | ------------ |
 | 2022.12.23 | [Denoising Diffusion Probabilistic Models](https://github.com/babbu3682/Internal_Paper_Study/blob/master/pdf/DDPM.pdf) | [Link](https://arxiv.org/abs/2006.11239) | 최창용 |
 | 2023.01.27 | [MedFuseNet An attention‐based multimodal deep learning model for visual question answering in the medical domain](https://github.com/babbu3682/Internal_Paper_Study/blob/master/pdf/MedFuseNet.pdf) | [Link](https://www.nature.com/articles/s41598-021-98390-1) | 김지영 |
