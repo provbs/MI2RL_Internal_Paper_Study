@@ -12,10 +12,10 @@
   * Former - [경성구](https://github.com/babbu3682)
 
 * **Members w/ Githubs**
-  * Current - [최창용](https://github.com/cychoi97), [정지훈](https://github.com/jhooons3327), [김영제](https://github.com/provbs), 김지환, 김현욱, 임현석, 윤희지, 김도아, 이강훈, 서진유, 온성철, 이현기, 방지수
+  * Current - [최창용](https://github.com/cychoi97),  [김영제](https://github.com/provbs), , 온성철 , 이현기[glthub.com/hyunki0523],  
   * Former - 박강길, 김지영, 이소영, [경성구](https://github.com/babbu3682), [김채원](https://github.com/cwkim0120), 김태원, 박혜나
  
-  * 발표 순서 Cycle : 김영제 -> 김지환 -> 정지훈 -> 박혜나 -> 서진유 -> 최창용 -> 임현석 -> 김현욱 -> 윤희지 -> 김도아 -> 이강훈 (2024.06.10 기준)
+  * 발표 순서 Cycle : 김동영 -> 박상아-> 남유진 -> 김지현 -> 최창용 -> 성지민 -> 이현기 -> 권지민 -> 김영제 -> 서진영  -> 박승주 -> 김태민 (2025.03.12 기준)
 
 * **Youtube (Recorded Presenting Videos)**
   * 링크 추후 추가
