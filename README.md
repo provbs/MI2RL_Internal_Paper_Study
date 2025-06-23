@@ -64,8 +64,6 @@
 
 | Date       | Title / PPT                                                              | Paper   | Presenter    |
 | ---------- | ------------------------------------------------------------------ | ------- | ------------ |
-| Date       | Title / PPT | Paper | Presenter |
-|------------|-------------|-------|-----------|
 | 2025.03.19 | [Emerging Properties in Self-Supervised Vision Transformers](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/pdf/DINO_%EC%B5%9C%EC%A2%85.pdf) | [arXiv:2301.11093](https://arxiv.org/pdf/2301.11093) | 성지민 |
 | 2025.04.02 | [VGGT: Visual Geometry Grounded Transformer](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/ppt/VGGT_250402_%EA%B9%80%EC%98%81%EC%A0%9C_%EB%82%B4%EB%B6%80%EB%85%BC%EB%AC%B8%20(1).pptx) | [arXiv:2002.09405](https://arxiv.org/abs/2002.09405) | 김영제 |
 | 2025.04.09 | [Going deeper with convolutions (Inception-v1~3)](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/ppt/InceptionNet(2025.04.09).pptx) | [v1 (2014)](https://arxiv.org/abs/1409.4842), [v2/v3 (2015)](https://arxiv.org/abs/1512.00567) | 권지민 |
