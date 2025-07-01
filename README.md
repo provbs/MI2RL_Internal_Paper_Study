@@ -9,7 +9,7 @@
 
 * **Manager**
   * [이현기](https://github.com/hyunki0523)
-  * [김영제](https://github.com/provbs)
+  * Former - [김영제](https://github.com/provbs)
   * Former - [경성구](https://github.com/babbu3682)
 
 * **Members w/ Githubs**
