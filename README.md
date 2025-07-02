@@ -8,14 +8,15 @@
 * [MI2RL](https://www.mi2rl.co/)@Asan Medical Center, South Korea, Professor :  Namkug Kim
 
 * **Manager**
-  * [김영제](https://github.com/provbs)
+  * [이현기](https://github.com/hyunki0523)
+  * Former - [김영제](https://github.com/provbs)
   * Former - [경성구](https://github.com/babbu3682)
 
 * **Members w/ Githubs**
-  * Current - [최창용](https://github.com/cychoi97), [정지훈](https://github.com/jhooons3327), [김영제](https://github.com/provbs), 김지환, 김현욱, 임현석, 윤희지, 김도아, 이강훈, 서진유, 온성철, 이현기, 방지수
-  * Former - 박강길, 김지영, 이소영, [경성구](https://github.com/babbu3682), [김채원](https://github.com/cwkim0120), 김태원, 박혜나
+  * Current - [최창용](https://github.com/cychoi97),  [김영제](https://github.com/provbs), 온성철, [이현기](glthub.com/hyunki0523),  박상아, 김지현,  권지민, 송정민, 박승주, 윤준영, 온성철
+  * Former - 박강길, 김지영, 이소영, [경성구](https://github.com/babbu3682), [김채원](https://github.com/cwkim0120), 김태원, 박혜나, 김도아, 이강훈, 남유진, 김동영, 성지민, 서진영, 김현욱
  
-  * 발표 순서 Cycle : 김영제 -> 김지환 -> 정지훈 -> 박혜나 -> 서진유 -> 최창용 -> 임현석 -> 김현욱 -> 윤희지 -> 김도아 -> 이강훈 (2024.06.10 기준)
+  * 발표 순서 Cycle :  온성철->  박상아->  최창용 -> 윤준영 -> 이현기 -> 권지민 -> 김영제 -> 송정민 -> 김지환-> 박승주 -> 김연수 (2025.05.28 기준)
 
 * **Youtube (Recorded Presenting Videos)**
   * 링크 추후 추가
@@ -57,4 +58,22 @@
 | 2024.05.13 | [Masked Autoencoders Are Scalable Vision Learners](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EC%9E%84%ED%98%84%EC%84%9D%20Masked%20Autoencoder.pdf) | [Link](https://arxiv.org/abs/2111.06377) | 임현석 |
 | 2024.05.20 | [nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/paper_review_nnU-Net_240527_Hyunwook%20Kim.pdf) | [Link](https://arxiv.org/abs/1809.10486) | 김현욱 |
 | 2024.06.10 | [Learning to Simulate Complex Physics with Graph Networks](https://github.com/provbs/MI2RL_Internal_Paper_Study/blob/main/pdf/%EC%9C%A4%ED%9D%AC%EC%A7%80Simulate%20Physi.pptx.pdf) | [Link](https://arxiv.org/abs/2002.09405) | 윤희지 |
+| 2024.06.10 | [simple diffusion: End-to-end diffusion for high resolution images]((https://mirlamc.slack.com/files/U02S8UKJFAA/F078DBM4MN0/simple_diffusion.pdf)) | [Link]([https://arxiv.org/abs/2002.09405](https://arxiv.org/pdf/2301.11093)) | 김도아 |
+
+* * *
+
+| Date       | Title / PPT                                                              | Paper   | Presenter    |
+| ---------- | ------------------------------------------------------------------ | ------- | ------------ |
+| 2025.03.19 | [Emerging Properties in Self-Supervised Vision Transformers](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/pdf/DINO_%EC%B5%9C%EC%A2%85.pdf) | [link](https://arxiv.org/pdf/2301.11093) | 성지민 |
+| 2025.04.02 | [VGGT: Visual Geometry Grounded Transformer](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/ppt/VGGT_250402_%EA%B9%80%EC%98%81%EC%A0%9C_%EB%82%B4%EB%B6%80%EB%85%BC%EB%AC%B8%20(1).pptx) | [link](https://arxiv.org/abs/2002.09405) | 김영제 |
+| 2025.04.09 | [Going deeper with convolutions (Inception-v1~3)](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/ppt/InceptionNet(2025.04.09).pptx) | [Inception v1 (2014)](https://arxiv.org/abs/1409.4842)<br>[Inception v2/v3 (2015)](https://arxiv.org/abs/1512.00567) | 권지민 |
+| 2025.04.16 | [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/ppt/TACKLING%20THE%20GENERATIVE%20LEARNING%20TRILEMMA%20WITH%20DENOISING%20DIFFUSION%20GANS.pptx) | [link](https://arxiv.org/pdf/2112.07804) | 이현기 |
+| 2025.04.23 | [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/ppt/CLIP.pptx) | [link](https://arxiv.org/pdf/2103.00020) | 서진영 |
+| 2025.04.29 | [Protein Discovery with Discrete Walk-Jump Sampling](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/pdf/%5BICLR%202024%5D%20Protein%20Discovery%20With%20Discrete%20Walk-Jump%20Sampling%20(Outstanding%20Papers).pdf) | [link](https://arxiv.org/abs/2306.12360) | 김지환 |
+| 2025.05.14 | [SimCLR: A Simple Framework for Contrastive Learning of Visual Representations](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/ppt/SIMCLR.pdf) | [SimCLR v1](https://arxiv.org/pdf/2002.05709)<br>[SimCLR v2](https://arxiv.org/pdf/2006.10029) | 박승주 |
+| 2025.05.21 | [Unsupervised Medical Image Translation with Adversarial Diffusion Models](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/ppt/UNSPERVISED%20MEDICAL%20IMAGE%20TRANSLATION%20WITH%20ADVERSARIAL%20DIFFUSION%20MODELS%20(2).pptx) | [link](https://arxiv.org/abs/2207.08208) | 이현기 |
+| 2025.05.28 | [Attention is All You Need](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/pdf/Transformer_250528.pdf) | [link](https://arxiv.org/abs/1706.03762) | 김연수 |
+| 2025.06.11 | [LLM-driven Multimodal Target Volume Contouring in Radiation Oncology](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/ppt/LLMSeg_250611_SC.pptx) | [link](https://arxiv.org/abs/2311.01908) | 온성철 |
+| 2025.06.18 | [Toward Conversational Agents with Context and Time Sensitive Long-term Memory](https://github.com/hyunki0523/MI2RL_Internal_Paper_Study/blob/main/pdf/ConversationalAI_0618.pdf) | [link](https://doi.org/10.48550/arXiv.2406.00057) | 박상아 |
+
 
